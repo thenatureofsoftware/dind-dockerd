@@ -1,0 +1,6 @@
+{
+  "debug": true,
+  "data-root": "/var/lib/docker",
+  "storage-driver": "vfs",
+  "hosts": ["tcp://localhost:2375"]
+}
